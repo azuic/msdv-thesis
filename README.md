@@ -59,3 +59,12 @@ Week 2
   - Google Search keyword
   - Weibo
 ![](./thesis-ideas.png)
+
+Week 3
+![](./sketch1/1.png)
+![](./sketch1/2.png)
+![](./sketch1/3.png)
+![](./sketch1/4.png)
+![](./sketch1/5.png)
+![](./sketch1/6.png)
+![](./sketch1/7.png)
