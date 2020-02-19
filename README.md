@@ -68,3 +68,6 @@ Week 3
 ![](./sketch1/5.png)
 ![](./sketch1/6.png)
 ![](./sketch1/7.png)
+
+Interaction:
+![](./sketch1/Uncover.png)
