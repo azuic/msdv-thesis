@@ -1,11 +1,18 @@
-Week 1
-1. Müller Meinard. Information Retrieval for Music and Motion. San Bernardino, CA: Springer, 2010.
-2. Li, Tao, Mitsunori Ogihara, and George Tzanetakis. Music Data Mining. Boca Raton: CRC Press, 2012.
-3. Warner, Malcolm, and Grace O. M. Lee. The Political Economy of the SARS Epidemic: the Impact on Human Resources in East Asia. London: Routledge, 2012.
-4. Koh, Tommy, Aileen Plant, and Eng Hin Lee. The New Global Threat: Severe Acute Respiratory Syndrome and Its Impacts. Singapore: World Scientific, 2003.
+Week 3
+Interaction:
+![](./sketch1/Uncover.png)
+     
+Storyboards:
+![](./sketch1/1.png)
+![](./sketch1/2.png)
+![](./sketch1/3.png)
+![](./sketch1/4.png)
+![](./sketch1/5.png)
+![](./sketch1/6.png)
+![](./sketch1/7.png)
+
 
 Week 2
-
 1. I’m visualizing the field recording captured in cities because I want to encourage people to utilize hearing, which has been usually neglected and overwhelmed by vision in everyday life, to experience their living space. I hope it can not only re-address the problem of noise in urban environment but also serve as an opportunity to discover the covered beauty and uniqueness of soundscape as the identity of a city.
 - Soundscape
   - why
@@ -60,15 +67,9 @@ Week 2
   - Weibo
 ![](./thesis-ideas.png)
 
-Week 3
-Interaction:
-![](./sketch1/Uncover.png)
 
-Storyboards:
-![](./sketch1/1.png)
-![](./sketch1/2.png)
-![](./sketch1/3.png)
-![](./sketch1/4.png)
-![](./sketch1/5.png)
-![](./sketch1/6.png)
-![](./sketch1/7.png)
+Week 1
+1. Müller Meinard. Information Retrieval for Music and Motion. San Bernardino, CA: Springer, 2010.
+2. Li, Tao, Mitsunori Ogihara, and George Tzanetakis. Music Data Mining. Boca Raton: CRC Press, 2012.
+3. Warner, Malcolm, and Grace O. M. Lee. The Political Economy of the SARS Epidemic: the Impact on Human Resources in East Asia. London: Routledge, 2012.
+4. Koh, Tommy, Aileen Plant, and Eng Hin Lee. The New Global Threat: Severe Acute Respiratory Syndrome and Its Impacts. Singapore: World Scientific, 2003.
