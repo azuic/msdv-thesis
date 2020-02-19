@@ -61,6 +61,10 @@ Week 2
 ![](./thesis-ideas.png)
 
 Week 3
+Interaction:
+![](./sketch1/Uncover.png)
+
+Storyboards:
 ![](./sketch1/1.png)
 ![](./sketch1/2.png)
 ![](./sketch1/3.png)
@@ -68,6 +72,3 @@ Week 3
 ![](./sketch1/5.png)
 ![](./sketch1/6.png)
 ![](./sketch1/7.png)
-
-Interaction:
-![](./sketch1/Uncover.png)
